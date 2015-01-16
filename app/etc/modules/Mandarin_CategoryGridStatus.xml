@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Mandarin_CategoryGridStatus>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Mandarin_CategoryGridStatus>
+    </modules>
+</config>

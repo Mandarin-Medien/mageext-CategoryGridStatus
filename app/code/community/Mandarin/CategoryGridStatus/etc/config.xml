@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Mandarin_CategoryGridStatus>
+            <version>0.1.0</version>
+        </Mandarin_CategoryGridStatus>
+    </modules>
+
+    <global>
+        <!-- <helpers>
+            <categorygridstatus>
+                <class>Mandarin_CategoryGridStatus_Helper</class>
+            </categorygridstatus>
+        </helpers> -->
+        <blocks>
+            <adminhtml>
+                <rewrite>
+                    <catalog_category_tab_product>Mandarin_CategoryGridStatus_Block_Adminhtml_Catalog_Category_Tab_Product</catalog_category_tab_product>
+                </rewrite>
+            </adminhtml>
+        </blocks>
+    </global>
+</config>
