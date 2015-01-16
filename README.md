@@ -10,6 +10,6 @@ Compatibility
 
 Legal
 -------
-License: GNU GPL v2.0
-Copyright: 2015 Mandarin Medien Ges. f.d.M. mbH
+- License: GNU GPL v2.0
+- Copyright: 2015 Mandarin Medien Ges. f.d.M. mbH
 
